@@ -3,7 +3,7 @@
   <a href="https://deepwiki.com/izzmhmd/inagricom"><img src="https://devin.ai/assets/askdeepwiki.png" height="38"></a>
   
   <a href="https://ee-izzmhmd53.projects.earthengine.app/view/indonesia-agriculture-monitoring-platform">
-    <img src="https://img.shields.io/badge/Access_Here-0F9D58?style=for-the-badge&logo=google&logoColor=white" height="38">
+    <img src="https://img.shields.io/badge/Access_Here-0F9D58?style=for-the-badge&logo=google&logoColor=white" height="108">
   </a>
 </p>
 
