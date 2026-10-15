@@ -1,7 +1,17 @@
 # INAGRICOM: Indonesian Agriculture Monitoring Platform
 [![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/izzmhmd/inagricom)
 [![Access Here](https://img.shields.io/badge/Access_Here-0F9D58?style=for-the-badge&logo=googleearthengine&logoColor=white)](https://ee-izzmhmd53.projects.earthengine.app/view/indonesia-agriculture-monitoring-platform)
-
+<p align="left">
+  <a href="https://github.com/izzmhmd/urbanheatexplorer">
+    <img src="https://img.shields.io/badge/Platform-Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white" height="38" alt="GEE">
+  </a>
+  <a href="https://github.com/izzmhmd/urbanheatexplorer/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" height="38" alt="License">
+  </a>
+  <a href="https://youtu.be/Jv9oXSHl7jE?si=BEPS537ob2l1hazM">
+    <img src="https://img.shields.io/badge/Watch_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="38" alt="Watch Tutorial Video">
+  </a>
+</p>
 INAGRICOM is a Google Earth Engine (GEE) application designed for monitoring key agricultural and environmental parameters across Indonesia. Developed as part of a NASA Space Apps Challenge project, this tool provides users with an interactive platform to analyze satellite data for insights into crop health, drought conditions, and water availability.
 
 ## Features
